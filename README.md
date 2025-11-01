@@ -6,7 +6,7 @@
   <img alt="Code size" src="https://img.shields.io/github/languages/code-size/consolelium/multiplayered" />
 </h1>
 <p align="center">
-  An easy-to-use web panel for Meta Horizon that allows game administrators and developers to manage their online application in real-time, without all the fuss of limits and paid tiers.
+  An easy-to-use web panel for Meta Horizon that allows developers and game administrators to manage their online application in real-time, without all the fuss of limits and paid tiers.
 </p>
 
 ## 👋 Introduction
