@@ -1,5 +1,13 @@
-<h1 align="center">multiplayered</h1>
-<p align="center">An easy-to-use web panel for Meta Horizon that allows game administrators and developers to manage their online application in real-time, without all the fuss of limits and paid tiers.</p>
+<h1 align="center">
+  multiplayered
+  <br>
+  <img alt="GitHub license" src="https://img.shields.io/github/license/consolelium/multiplayered" />
+  <img alt="Package version" src="https://img.shields.io/github/package-json/v/consolelium/multiplayered" />
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/consolelium/multiplayered" />
+</h1>
+<p align="center">
+  An easy-to-use web panel for Meta Horizon that allows game administrators and developers to manage their online application in real-time, without all the fuss of limits and paid tiers.
+</p>
 
 ## 🤔 What are the features?
 **multiplayered** has an ever-expanding list of options readily available when you need them, including:
