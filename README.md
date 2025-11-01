@@ -1,9 +1,9 @@
 <h1 align="center">
   <img width="1280" height="384" alt="Project banner" src="https://github.com/user-attachments/assets/2891f26f-8a12-40a1-9379-811b13decda2" />
   <br>
-  <img alt="GitHub license" src="https://img.shields.io/github/license/consolelium/multiplayered" />
-  <img alt="Package version" src="https://img.shields.io/github/package-json/v/consolelium/multiplayered" />
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/consolelium/multiplayered" />
+  <img alt="GitHub license" src="https://img.shields.io/github/license/fridgington/multiplayered" />
+  <img alt="Package version" src="https://img.shields.io/github/package-json/v/fridgington/multiplayered" />
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/fridgington/multiplayered" />
 </h1>
 <p align="center">
   An easy-to-use web panel for Meta Horizon that allows developers and game administrators to manage their online application in real-time, without all the fuss of limits and paid tiers.
