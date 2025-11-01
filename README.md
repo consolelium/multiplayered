@@ -18,6 +18,7 @@
   - Cases (also called drops, drop-tables, loot boxes, or containers), case keys, buy-at-once (buy multiple items at the same time)
   - Timed purchases (examples: daily spin/case/crate, log-in reward (can be automatic)), item quantities
   - Limited-time offers, honeypots, gift codes (grants a specific item(s) or currency, (un-)limited uses, expiration)
+  - Subscriptions (real-world money and/or virtual currency, auto-renewal, customizable renewal interval)
   - Economy rules (keep inflation low)
 - Integrations with multiplayer services like Photon
 - Support for moderation tools like banning, warning, and mutes
