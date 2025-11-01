@@ -1,5 +1,5 @@
 <h1 align="center">
-  multiplayered
+  <img width="1280" height="384" alt="Project banner" src="https://github.com/user-attachments/assets/2891f26f-8a12-40a1-9379-811b13decda2" />
   <br>
   <img alt="GitHub license" src="https://img.shields.io/github/license/consolelium/multiplayered" />
   <img alt="Package version" src="https://img.shields.io/github/package-json/v/consolelium/multiplayered" />
@@ -8,6 +8,9 @@
 <p align="center">
   An easy-to-use web panel for Meta Horizon that allows game administrators and developers to manage their online application in real-time, without all the fuss of limits and paid tiers.
 </p>
+
+## 👋 Introduction
+Hi
 
 ## 🤔 What are the features?
 **multiplayered** has an ever-expanding list of options readily available when you need them, including:
