@@ -10,7 +10,7 @@
 </p>
 
 ## 👋 Introduction
-Hi
+**multiplayered** is a self-hosted web panel intended for games and apps distributed on the Meta Horizon Store. It has many features tailored specifically to the platform, such as attestation, user age-group integrations, support for achievements through Meta's Achievement API, and much more. The panel is very customizable and does not have any limits or paid tiers, unlike other backend services such as PlayFab or Epic Online Services. You can also give other people access to the web panel, such as your team, moderators, or community managers.
 
 ## 🤔 What are the features?
 **multiplayered** has an ever-expanding list of options readily available when you need them, including:
@@ -21,6 +21,8 @@ Hi
 - Economy system with support for in-app purchases
   - Virtual currency management
     - Interval-based recharge (seconds, minutes, hours, days, weeks, months, etc.)
+    - Set caps for recharging and currencies in general
+      - Can be applied to currencies used as refund tokens
     - Negative numbers optionally allowed (debt)
   - Inventory system
     - Durable items (can't be consumed)
@@ -28,12 +30,19 @@ Hi
     - Limited-stock items
     - Stackability
     - Tradability
-  - Rotating stores, promo-codes (virtual currency only), discounts, bundles, trading
+  - Rotating stores, promo-codes (virtual currency only, discounts on select items, (un-)limited uses, expiration), discounts, bundles
+  - Trading items or currency
+    - Virtual currencies can be made tokens for trading
+      - Optional; token not needed to trade
+    - Customizable cooldown and what items can be traded
   - Cases (also called drops, drop-tables, loot boxes, or containers), case keys, buy-at-once (buy multiple items at the same time)
   - Timed purchases (examples: daily spin/case/crate, log-in reward (can be automatic)), item quantities
-  - Limited-time offers, honeypots, gift codes (grants a specific item(s) or currency, (un-)limited uses, expiration)
+  - Limited-time offers, honeypots, gift codes (grants a specific item(s) and/or currency, (un-)limited uses, expiration)
   - Subscriptions (real-world money and/or virtual currency, auto-renewal, customizable renewal interval)
-  - Economy rules (keep inflation low)
+  - Refunding purchases made with virtual currency
+    - Virtual currencies can be made tokens for refunds
+      - Optional; token not needed to refund
+    - Customizable cooldown and what items can be refunded
 - Integrations with multiplayer services like Photon
 - Support for moderation tools like banning, warning, and mutes
   - Integration with voice or text chat moderation services like ToxMod and VoicePatrol
@@ -60,3 +69,6 @@ Hi
 Additionally, multiplayered natively supports multiple languages, like:
 - English
 - Spanish
+
+## ❓ Why use multiplayered?
+**multiplayered** is a good alternative to expensive, unnecessary subscriptions that provide little to improve your experience as a developer for Meta Horizon. It can also be rebranded at will due to the fact that it is self-hosted. The codebase can be easily modified and you can make an issue if you need any help (changing the code, adding more features, or just using it in general.)
